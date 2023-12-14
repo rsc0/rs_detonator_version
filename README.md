@@ -1,0 +1,1 @@
+# rs_detonator_version
